@@ -1,8 +1,12 @@
 3-2 no
 3-3 you must commit and push all changes froml the repl.it account to your guestbook repo
+<<<<<<< HEAD
 3-7 no
 3-8 you will have to go to your repl.it and pull the changes 
 this is something different 
 3-12 that there was a change committed in git hub main branch that has not been pulled to the repl.it main branch 
 3-13 warning pop up about conflicting changes
-3-14 no, head is repl.it origin/main is github
+3-14 no, head is github origin/main is repl.it
+=======
+this is the last line
+>>>>>>> origin/main
